@@ -40,18 +40,21 @@ sections:
     section_id: features
     type: featuresblock
   - actions:
-      - label: View Demo
+      - label: 'View Demo Solutions '
         url: /docs/getting-started/index.html
       - label: Get Started
         url: /docs/getting-started/index.html
     component: ContentBlock
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We introduce to you tailor-made and ready software solutions for you and
+      your business!
+
+
+      We let you worry about your business needs and we deliver the software
+      solution that cares for your business.
     image: images/10.jpg
     section_id: text-img
-    title: A Section With An Image
+    title: Ready and Tested Applications
     type: contentblock
   - component: FeaturesBlock
     featureslist:
